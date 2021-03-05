@@ -1,14 +1,14 @@
-#Anna Mudrich#
+#Anna Mudrich
 
-###Сontact information###
+###Сontact information
 **E-mail:** <muanya@mail.ru>, **telephone:** 8-912-64-233-324
 ***
-###Profile###
+###Profile
 Beginner front end developer. I have experience in coordinating cross-functional projects, implementing and finding new solutions for company project. 
 Personal skills – communicative, dependable, initiative, versatile.
 
 
-###Pro skills###
+###Pro skills
 -Git
 -Java (beginner)
 -Postgres SQL
@@ -17,7 +17,7 @@ Personal skills – communicative, dependable, initiative, versatile.
 -html, CSS
 
 
-###Code example###
+###Code example
 ```package tictactoe;
 public class Main {
     public static void main(String[] args) {
@@ -29,11 +29,11 @@ public class Main {
 ```
 
 
-###Experience###
+###Experience
 Here will be text leter
 
 
-###Education###
+###Education
 -Basics of programming course (Stepik)
 -Algorithms and data structures course (Coursera)
 -Courses of data analysis in Python (Skill Factory)
