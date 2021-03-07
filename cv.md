@@ -10,12 +10,12 @@ Personal skills – communicative, dependable, initiative, versatile.
 
 
 ###Pro skills
--Git
--Java (beginner)
--Postgres SQL
--Photoshop
--Coreldraw
--html, CSS
++Git
++Java (beginner)
++Postgres SQL
++Photoshop
++Coreldraw
++html, CSS
 
 
 ###Code example
