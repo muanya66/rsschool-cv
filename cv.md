@@ -2,7 +2,7 @@
 =============
 
 ###Сontact information
-**E-mail:** <muanya@mail.ru>, **telephone:** 8-912-64-233-324
+**E-mail:** <muanya@mail.ru>
 ***
 ###Profile
 Beginner front end developer. I have experience in coordinating cross-functional projects, implementing and finding new solutions for company project. 
