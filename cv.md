@@ -48,7 +48,7 @@ class Main {
 
 
 ### Experience
-Here will be text leter (after ending course)
+Here will be text leter
 
 
 ### Education
